@@ -1,100 +1,92 @@
-#EXTM3U 
-#EXTINF:-1  group-title="中央频道",tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/1HD.png" CCTV1
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/1HD.png" group-title="中央频道",CCTV1 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV1 HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/1HD.png" group-title="中央频道",CCTV1 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8?
-#EXTINF:-1  group-title="中央频道",tvg-logo="https://bkimg.cdn.bcebos.com/pic/562c11dfa9ec8a13a99d3ae3ff03918fa0ecc02a?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto" CCTV2HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/2HD.png" group-title="中央频道",CCTV2 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225676/index.m3u8?
-#EXTINF:-1  group-title="中央频道",tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" CCTV2HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/2HD.png" group-title="中央频道",CCTV2HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225657/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV3 HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/3HD.png" group-title="中央频道",CCTV3 HD
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
-#EXTINF:-1  group-title="中央频道",CCTV3 HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/3HD.png" group-title="中央频道",CCTV3 HD
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
-#EXTINF:-1  group-title="中央频道",CCTV3 HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/3HD.png" group-title="中央频道",CCTV3 HD
 http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
-#EXTINF:-1  group-title="中央频道",CCTV3 HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/3HD.png" group-title="中央频道",CCTV3 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225677/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV3 HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/3HD.png" group-title="中央频道",CCTV3 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225713/index.m3u8?
-#EXTINF:-1  group-title="中央频道",tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" CCTV-3综艺北邮
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/3HD.png" group-title="中央频道",CCTV3 HD
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1  group-title="中央频道",CCTV4 HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/4HD.png" group-title="中央频道",CCTV4 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225775/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV4 HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/4HD.png" group-title="中央频道",CCTV4 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225761/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV4 HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/4HD.png" group-title="中央频道",CCTV4 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225753/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV5 HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/4HD.png" group-title="中央频道",CCTV5 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225516/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV-5+ HD
+#EXTINF:-1 tvg-id="6" tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/5+HD.png" group-title="中央频道",CCTV-5+
 http://111.12.102.68:6610/PLTV/77777777/224/3221225621/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV-5+ HD
+#EXTINF:-1 tvg-id="6" tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/5+HD.png" group-title="中央频道",CCTV-5+
 http://111.12.102.68:6610/PLTV/77777777/224/3221225712/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV-5+ HD
+#EXTINF:-1 tvg-id="6" tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/5+HD.png" group-title="中央频道",CCTV-5+
 http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-#EXTINF:-1  group-title="中央频道",CCTV6 HD
+#EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/6HD.png" group-title="中央频道",CCTV6 HD
 http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1  group-title="中央频道",tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" CCTV-6电影
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/6HD.png" group-title="中央频道",CCTV6 HD
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
-#EXTINF:-1  group-title="中央频道",tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" CCTV-6电影北邮
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/6HD.png" group-title="中央频道",CCTV6 HD
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1  group-title="中央频道",CCTV6 HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/6HD.png" group-title="中央频道",CCTV6 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225715/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV7 HD
+#EXTINF:-1 group-title="中央频道",CCTV7 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225627/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV7 HD
+#EXTINF:-1 group-title="中央频道",CCTV7 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225700/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV8 HD
+#EXTINF:-1 group-title="中央频道",CCTV8 HD
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
-#EXTINF:-1  group-title="中央频道",CCTV8 HD
+#EXTINF:-1 group-title="中央频道",CCTV8 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225630/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV9 HD
+#EXTINF:-1 group-title="中央频道",CCTV9 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225633/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV10 HD
+#EXTINF:-1 group-title="中央频道",CCTV10 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225663/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV10 HD
+#EXTINF:-1 group-title="中央频道",CCTV10 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225624/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV10 HD
+#EXTINF:-1 group-title="中央频道",CCTV10 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225704/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV11 HD
+#EXTINF:-1 group-title="中央频道",CCTV11 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225739/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV11 HD
+#EXTINF:-1 group-title="中央频道",CCTV11 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225750/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV12 HD
+#EXTINF:-1 group-title="中央频道",CCTV12 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225645/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV12 HD
+#EXTINF:-1 group-title="中央频道",CCTV12 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225670/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV13 HD
+#EXTINF:-1 group-title="中央频道",CCTV13 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225742/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV14 HD
+#EXTINF:-1 group-title="中央频道",CCTV14 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225673/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV14 HD
+#EXTINF:-1 group-title="中央频道",CCTV14 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225648/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV-15 HD
+#EXTINF:-1 group-title="中央频道",CCTV-15 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
-#EXTINF:-1  group-title="中央频道",CCTV-15 HD
+#EXTINF:-1 group-title="中央频道",CCTV-15 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225693/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV-15 HD
+#EXTINF:-1 group-title="中央频道",CCTV-15 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225830/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV-17 HD
+#EXTINF:-1 group-title="中央频道",CCTV-17 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225513/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV-17 HD
+#EXTINF:-1 group-title="中央频道",CCTV-17 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225833/index.m3u8?
-#EXTINF:-1  group-title="中央频道",CCTV-17 HD
+#EXTINF:-1 group-title="中央频道",CCTV-17 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225766/index.m3u8?
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://39.134.66.66/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 group-title="卫视频道",安徽卫视蓝光2
 http://111.12.102.68:6610/PLTV/77777777/224/3221225671/index.m3u8?
-#EXTINF:-1 ,北京IPTV 4K超高清
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
-#EXTINF:-1 ,北京IPTV 淘BABY
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
-#EXTINF:-1 ,北京IPTV 淘电影
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-#EXTINF:-1 ,北京IPTV 淘剧场
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视蓝光1
 http://117.169.119.199:8080/live/hdbeijingstv/index.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视蓝光2
@@ -127,26 +119,6 @@ http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 http://223.82.250.72/live/fhchinese/1.m3u8
 #EXTINF:-1 group-title="卫视频道",凤凰资讯蓝光
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1 group-title="甘肃频道",甘肃都市蓝光
-http://39.134.39.39/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 group-title="甘肃频道",甘肃公共蓝光
-http://39.134.39.37/PLTV/88888888/224/3221226250/index.m3u8
-#EXTINF:-1 group-title="甘肃频道",甘肃经济蓝光
-http://39.134.39.39/PLTV/88888888/224/3221226252/index.m3u8
-#EXTINF:-1 group-title="甘肃频道",甘肃少儿蓝光
-http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
-#EXTINF:-1 group-title="甘肃频道",甘肃卫视蓝光1
-http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
-#EXTINF:-1 group-title="甘肃频道",甘肃文化影视蓝光
-http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
-#EXTINF:-1 group-title="甘肃频道",兰州公共频道蓝光
-http://39.134.39.39/PLTV/88888888/224/3221226244/index.m3u8
-#EXTINF:-1 group-title="甘肃频道",兰州生活经济蓝光
-http://39.134.39.39/PLTV/88888888/224/3221226285/index.m3u8
-#EXTINF:-1 group-title="甘肃频道",兰州新闻综合蓝光
-http://39.134.39.39/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 group-title="甘肃频道",兰州综艺体育蓝光
-http://39.134.39.39/PLTV/88888888/224/3221226246/index.m3u8
 #EXTINF:-1 group-title="卫视频道",广东卫视蓝光1
 http://39.134.66.66/PLTV/88888888/224/3221225667/index.m3u8
 #EXTINF:-1 group-title="卫视频道",广东卫视蓝光2
@@ -157,16 +129,6 @@ http://ivi.bupt.edu.cn/hls/gxhd.m3u8
 http://39.134.39.37/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 group-title="卫视频道",海南卫视蓝光2
 http://39.134.39.39/PLTV/88888888/224/3221226301/index.m3u8
-#EXTINF:-1 ,杭州综合HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
-#EXTINF:-1 ,杭州明珠HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
-#EXTINF:-1 ,杭州生活HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
-#EXTINF:-1 ,杭州影视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
-#EXTINF:-1 ,杭州少儿HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
 #EXTINF:-1 group-title="卫视频道",河南卫视蓝光
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=19&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视高清1
@@ -231,55 +193,93 @@ http://111.12.102.68:6610/PLTV/77777777/224/3221225695/index.m3u8?
 http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
 #EXTINF:-1 group-title="卫视频道",重庆卫视蓝光1
 http://111.12.102.68:6610/PLTV/77777777/224/3221225745/index.m3u8?
-#EXTINF:-1 ,张家港社会生活 (720p)
+#EXTINF:-1,北京IPTV 4K超高清
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+#EXTINF:-1,北京IPTV 淘BABY
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
+#EXTINF:-1,北京IPTV 淘电影
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+#EXTINF:-1,北京IPTV 淘剧场
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
+#EXTINF:-1,杭州综合HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
+#EXTINF:-1,杭州明珠HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
+#EXTINF:-1,杭州生活HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
+#EXTINF:-1,杭州影视HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
+#EXTINF:-1,杭州少儿HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
+#EXTINF:-1,张家港社会生活 (720p)
 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
-#EXTINF:-1 ,张家港新闻综合 (720p)
+#EXTINF:-1,张家港新闻综合 (720p)
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
-#EXTINF:-1 ,张家界阿凡达悬浮山
+#EXTINF:-1,张家界阿凡达悬浮山
 https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 ,张家界将军列队
+#EXTINF:-1,张家界将军列队
 https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 ,张家界迷魂台
+#EXTINF:-1,张家界迷魂台
 https://gccncc.v.wscdns.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 ,张家界水绕4门
+#EXTINF:-1,张家界水绕4门
 https://gccncc.v.wscdns.com/gc/zjjsrsm_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 ,CHC高清电影
+#EXTINF:-1,CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 ,CHC家庭影院
+#EXTINF:-1,CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 ,亚美卫视
+#EXTINF:-1,亚美卫视
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1 ,五星体育HD
+#EXTINF:-1,五星体育HD
 http://39.134.39.37/PLTV/88888888/224/3221226178/index.m3u8
-#EXTINF:-1 ,爱谍战
+#EXTINF:-1,爱谍战
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/1.m3u8
-#EXTINF:-1 ,爱都市
+#EXTINF:-1,爱都市
 http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱江湖
+#EXTINF:-1,爱江湖
 http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱解密
+#EXTINF:-1,爱解密
 http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱经典
+#EXTINF:-1,爱经典
 http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱军武
+#EXTINF:-1,爱军武
 http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱历史
+#EXTINF:-1,爱历史
 http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱美食
+#EXTINF:-1,爱美食
 http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱奇谈
+#EXTINF:-1,爱奇谈
 http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱上4K频道
+#EXTINF:-1,爱上4K频道
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,纯享4K
+#EXTINF:-1,纯享4K
 http://111.12.102.68:6610/PLTV/77777777/224/3221225726/index.m3u8?
-#EXTINF:-1 ,爱时尚
+#EXTINF:-1,爱时尚
 http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱世界
+#EXTINF:-1,爱世界
 http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱玩具
+#EXTINF:-1,爱玩具
 http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,爱喜剧
+#EXTINF:-1,爱喜剧
 http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,咪咕4K
+#EXTINF:-1,咪咕4K
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃都市蓝光
+http://39.134.39.39/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃公共蓝光
+http://39.134.39.37/PLTV/88888888/224/3221226250/index.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃经济蓝光
+http://39.134.39.39/PLTV/88888888/224/3221226252/index.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃少儿蓝光
+http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃卫视蓝光1
+http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
+#EXTINF:-1 group-title="甘肃频道",甘肃文化影视蓝光
+http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
+#EXTINF:-1 group-title="甘肃频道",兰州公共频道蓝光
+http://39.134.39.39/PLTV/88888888/224/3221226244/index.m3u8
+#EXTINF:-1 group-title="甘肃频道",兰州生活经济蓝光
+http://39.134.39.39/PLTV/88888888/224/3221226285/index.m3u8
+#EXTINF:-1 group-title="甘肃频道",兰州新闻综合蓝光
+http://39.134.39.39/PLTV/88888888/224/3221226242/index.m3u8
+#EXTINF:-1 group-title="甘肃频道",兰州综艺体育蓝光
+http://39.134.39.39/PLTV/88888888/224/3221226246/index.m3u8
