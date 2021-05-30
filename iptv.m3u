@@ -3,7 +3,7 @@
 http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8?
 #EXTINF:-1  group-title="中央频道",CCTV1 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8?
-#EXTINF:-1  group-title="中央频道",tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" CCTV2HD
+#EXTINF:-1  group-title="中央频道",tvg-logo="https://bkimg.cdn.bcebos.com/pic/562c11dfa9ec8a13a99d3ae3ff03918fa0ecc02a?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto" CCTV2HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225676/index.m3u8?
 #EXTINF:-1  group-title="中央频道",tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" CCTV2HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225657/index.m3u8?
