@@ -1,11 +1,11 @@
 #EXTM3U 
-#EXTINF:-1 group-title="中央频道",tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/1HD.png" CCTV1
+#EXTINF:-1  group-title="中央频道",tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/1HD.png" CCTV1
 http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8?
 #EXTINF:-1  group-title="中央频道",CCTV1 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8?
-#EXTINF:-1  group-title="中央频道",tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" CCTV2 HD
+#EXTINF:-1  group-title="中央频道",tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" CCTV2HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225676/index.m3u8?
-#EXTINF:-1  group-title="中央频道",tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" CCTV2 HD
+#EXTINF:-1  group-title="中央频道",tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" CCTV2HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225657/index.m3u8?
 #EXTINF:-1  group-title="中央频道",CCTV3 HD
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
