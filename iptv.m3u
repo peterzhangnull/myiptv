@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-name="CCTV1" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/1HD.png" CCTV1
+#EXTINF:-1 group-title="中央频道",tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/1HD.png" CCTV1
 http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8?
 #EXTINF:-1  group-title="中央频道",CCTV1 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8?
@@ -17,7 +17,7 @@ http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
 http://111.12.102.68:6610/PLTV/77777777/224/3221225677/index.m3u8?
 #EXTINF:-1  group-title="中央频道",CCTV3 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225713/index.m3u8?
-#EXTINF:-1  group-title="中央频道",tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" CCTV-3综艺 北邮
+#EXTINF:-1  group-title="中央频道",tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" CCTV-3综艺北邮
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1  group-title="中央频道",CCTV4 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225775/index.m3u8?
@@ -35,9 +35,9 @@ http://111.12.102.68:6610/PLTV/77777777/224/3221225712/index.m3u8?
 http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 #EXTINF:-1  group-title="中央频道",CCTV6 HD
 http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1  group-title="中央频道",tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" CCTV-6 电影
+#EXTINF:-1  group-title="中央频道",tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" CCTV-6电影
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
-#EXTINF:-1  group-title="中央频道",tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" CCTV-6电影 北邮
+#EXTINF:-1  group-title="中央频道",tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" CCTV-6电影北邮
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1  group-title="中央频道",CCTV6 HD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225715/index.m3u8?
