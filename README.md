@@ -19,29 +19,18 @@
 ***
 
 <table>
-             <tbody>
-            <tr>
-                <th scope="col">#</th>
-                <th scope="col"></th>
-                <th scope="col">频道</th>
-       
-                <th scope="col">分类</th>
- 
-              
-            </tr>
-     
-    
-
-                <tr>
-                    <th>1</th>
-                    <td><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" alt="CCTV1" height="30"></a>                     </td>
-                   
-                    <td>CCTV1</td>
-                    <td>央视</td>
-                    
-                   
-                </tr>
-
-    
-            </tbody>
-        </table>
+     <tbody>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col"></th>
+            <th scope="col">频道</th>
+            <th scope="col">分类</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" alt="CCTV1" height="30"></a>                     </td>
+            <td>CCTV1</td>
+            <td>央视</td> 
+          </tr>
+        </tbody>
+ </table>
