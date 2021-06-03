@@ -17,8 +17,8 @@
 
 电视频道
 ***
-<table class="table table-striped table-primary table-hover">
-            <thead class="thead-dark">
+<table>
+            <thead>
             <tr>
                 <th scope="col">#</th>
                 <th scope="col"></th>
@@ -30,7 +30,8 @@
 
             </tr>
             </thead>
-            <tbody><tr>
+            <tbody>
+                        <tr>
                 <th></th>
                 <td><a href="#"><img src="#" alt="" height="30"></a></td>
                 <td>需要显示:暂未提供节目表 的频道</td>
@@ -559,8 +560,5 @@
                     <td>tvsou</td>
                     <td>20210604</td>
                 </tr>
-
-
-        
             </tbody>
         </table>
