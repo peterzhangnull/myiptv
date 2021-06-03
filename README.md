@@ -34,7 +34,7 @@
           </tr>
           <tr>
             <td>2</td>
-            <td><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" alt="CCTV2" height="30"></a>                     </td>
+            <td><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" alt="CCTV2" height="30"></a>                     </td>
             <td>CCTV2</td>
             <td>央视</td> 
           </tr>
