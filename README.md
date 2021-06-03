@@ -18,7 +18,7 @@
 电视频道
 ***
 <table>
-            <thead>
+             <tbody>
             <tr>
                 <th scope="col">#</th>
                 <th scope="col"></th>
@@ -29,9 +29,9 @@
                 <th scope="col">最新节目日期</th>
 
             </tr>
-            </thead>
-            <tbody>
-                        <tr>
+     
+    
+           <tr>
                 <th></th>
                 <td><a href="#"><img src="#" alt="" height="30"></a></td>
                 <td>需要显示:暂未提供节目表 的频道</td>
