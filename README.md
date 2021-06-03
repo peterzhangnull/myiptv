@@ -38,5 +38,17 @@
             <td>CCTV2</td>
             <td>央视</td> 
           </tr>
+          <tr>
+            <td>3</td>
+            <td><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" alt="CCTV3" height="30"></a>                     </td>
+            <td>CCTV3</td>
+            <td>央视</td> 
+          </tr>
+          <tr>
+            <td>4</td>
+            <td><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" alt="CCTV2" height="30"></a>                     </td>
+            <td>CCTV4</td>
+            <td>央视</td> 
+          </tr>
         </tbody>
  </table>
