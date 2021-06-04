@@ -28,43 +28,43 @@
         </tr>
         <tr>
             <td>1</td>
-            <td style="background-color:#C0C0C0"><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" alt="CCTV1" height="30"></a>                     </td>
+            <td style="background:#C0C0C0"><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" alt="CCTV1" height="30"></a>                     </td>
             <td>CCTV1</td>
             <td>央视</td> 
           </tr>
           <tr>
             <td>2</td>
-            <td style="background-color:#C0C0C0"><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" alt="CCTV2" height="30"></a>                     </td>
+            <td style="background:#C0C0C0"><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" alt="CCTV2" height="30"></a>                     </td>
             <td>CCTV2</td>
             <td>央视</td> 
           </tr>
           <tr>
             <td>3</td>
-            <td style="background-color:#C0C0C0"><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" alt="CCTV3" height="30"></a>                     </td>
+            <td style="background:#C0C0C0"><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" alt="CCTV3" height="30"></a>                     </td>
             <td>CCTV3</td>
             <td>央视</td> 
           </tr>
           <tr>
             <td>4</td>
-            <td style="background-color:#C0C0C0"><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" alt="CCTV2" height="30"></a>                     </td>
+            <td style="background:#C0C0C0"><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" alt="CCTV2" height="30"></a>                     </td>
             <td>CCTV4</td>
             <td>央视</td> 
           </tr>
           <tr>
             <td>5</td>
-            <td style="background-color:#C0C0C0"><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" alt="CCTV2" height="30"></a>                     </td>
+            <td style="background:#C0C0C0"><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" alt="CCTV2" height="30"></a>                     </td>
             <td>CCTV5</td>
             <td>央视</td> 
           </tr>
           <tr>
             <td>6</td>
-            <td style="background-color:#C0C0C0"><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" alt="CCTV2" height="30"></a>                     </td>
+            <td style="background:#C0C0C0"><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" alt="CCTV2" height="30"></a>                     </td>
             <td>CCTV6</td>
             <td>央视</td> 
           </tr>
           <tr>
             <td>7</td>
-            <td style="background-color:#C0C0C0"><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" alt="CCTV2" height="30"></a>                     </td>
+            <td style="background:#C0C0C0"><a href="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png"><img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" alt="CCTV2" height="30"></a>                     </td>
             <td>CCTV7</td>
             <td>央视</td> 
           </tr>
