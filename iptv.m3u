@@ -291,3 +291,23 @@ http://39.134.39.39/PLTV/88888888/224/3221226285/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226242/index.m3u8
 #EXTINF:-1 group-title="甘肃频道",兰州综艺体育
 http://39.134.39.39/PLTV/88888888/224/3221226246/index.m3u8
+#EXTINF:-1 group-title="甘肃频道",庆阳综合
+http://stream.gsqytv.com.cn/xwzh/playlist.m3u8?_upt=9295a7bd1581136902
+#EXTINF:-1 group-title="甘肃频道",庆阳公共
+http://stream.gsqytv.com.cn/ggpd/sd/live.m3u8?_upt=43c33eda1623820782
+#EXTINF:-1 group-title="甘肃频道",庆城电视台
+http://39.134.32.101:6610/270000001111/1110000156/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃频道",宁县电视台
+http://39.134.32.101:6610/270000001111/1110000157/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃频道",西峰电视台
+http://39.134.32.101:6610/270000001111/1110000160/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃频道",正宁电视台
+http://39.134.32.101:6610/270000001111/1110000184/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃频道",环县电视台
+http://39.134.32.101:6610/270000001111/1110000180/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃频道",华池电视台
+http://39.134.32.101:6610/270000001111/1110000158/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃频道",合水电视台
+http://39.134.32.101:6610/270000001111/1110000166/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="甘肃频道",镇原电视台
+http://39.134.32.101:6610/270000001111/1110000161/index.m3u8?IASHttpSessionId=OTT
